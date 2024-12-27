@@ -12,6 +12,11 @@ Sobre mí
 
 📫 Cómo contactarme: eliud.juarezo@uanl.edu.mx
 
+## Estadísticas de GitHub 📊
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juarez-eliud&show_icons=true&theme=radical&count_private=true)
+
+
 Tecnologías y Herramientas 🛠️
 
 Lenguajes: [JavaScript, C#, Python].
