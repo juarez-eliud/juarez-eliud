@@ -29,18 +29,3 @@ Otros: [Three.js, Material-UI, Graph API Microsoft].
 
 
 ¡Gracias por visitar mi perfil! ✨
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Full Stack Dev, en constante aprendizaje y buscando nuevas formas de mejorar mis habilidades. "Aprender es un tesoro que sigue a su dueño a todas partes."
